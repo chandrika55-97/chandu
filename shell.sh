@@ -7,3 +7,4 @@ if [userid -ne 0]
     else
       exit 1
 fi
+#variables
